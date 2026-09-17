@@ -59,10 +59,8 @@ Norm numbers (N1–N17) are stable identifiers. Cite them as, for example, *TRUS
 
 ## Citation
 
-<!-- Replace with a Zenodo DOI once a release is tagged. -->
+Ramachandran, R., Jha, N., Gebre, S., & Bugbee, K. (2026). TRUST-17: Proposal for 17 Community Norms for Trustworthy AI Agents in Science. Zenodo. https://doi.org/10.5281/zenodo.22820729
 
-    TRUST-17: Proposal for 17 Community Norms for Trustworthy AI Agents in Science.
-    Draft v0.1. <YEAR>. <URL>
 
 ## Initial Authors
 Rahul Ramachandran, Nidhi Jha, Samrawit Gebre, Kaylin Bugbee
