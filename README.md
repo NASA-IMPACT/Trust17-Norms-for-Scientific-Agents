@@ -64,6 +64,12 @@ Norm numbers (N1–N17) are stable identifiers. Cite them as, for example, *TRUS
     TRUST-17: Proposal for 17 Community Norms for Trustworthy AI Agents in Science.
     Draft v0.1. <YEAR>. <URL>
 
+## Initial Authors
+Rahul Ramachandran, Nidhi Jha, Samrawit Gebre, Kaylin Bugbee
+
+## Contributions
+Participants - 2026 Open Source Science Data Repositories Meeting, Arlington, VA. Sept 1-3, 2026
+
 ## License
 
 <!-- CC BY 4.0 is a common choice for a document of this kind. -->
